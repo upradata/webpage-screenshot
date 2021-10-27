@@ -1,0 +1,11 @@
+{
+  "name": "WebpageScreenshot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Thomas Milotti <thomas.milotti@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "puppeteer": "^1.11.0"
+  }
+}
